@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330783925789",
+    "project_id": "timely-plan",
+    "storage_bucket": "timely-plan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330783925789:android:f958395e8102662ce648f4",
+        "android_client_info": {
+          "package_name": "com.example.timely_plan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330783925789-tivs62lea9nbtm9voki6f9st5d8ce8dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMCDU1XTbKxS9zQ9zVcNtJMjbt8jL4LBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330783925789-tivs62lea9nbtm9voki6f9st5d8ce8dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
